@@ -1,0 +1,34 @@
+{
+  "appName": "Flutter Demo",
+
+  "titleLanding" : "Home Page",
+  "titleDialogPlayground": "Dialog Playground",
+  "titleSnackbarPlayground": "Snackbar Playground",
+  "titleDialogTitle" :  "Dialog Title",
+  "titleCounterBasic" :  "Counter (Basic)",
+  "titleCounterFlutterHooks" :  "Counter (Flutter Hooks)",
+  "titleCounterRiverpod" :  "Counter (Riverpod)",
+
+  "labelDialogPlayground": "Dialog Playground",
+  "labelSnackbarPlayground": "Snackbar Playground",
+  "labelChangeLanguage": "Change Language",
+  "labelCounterBasic" :  "Counter (Basic)",
+  "labelCounterFlutterHooks" :  "Counter (Flutter Hooks)",
+  "labelCounterRiverpod" :  "Counter (Riverpod)",
+  "labelIncrement" : "Increment",
+  "labelPushButtonNoOfTimes": "You have pushed the button this many times:",
+  "labelTriggerInfoMessage": "Trigger Simple Message",
+  "labelTriggerDangerMessage": "Trigger Danger Message",
+  "labelTriggerSuccessMessage": "Trigger Success Message",
+  "labelShowDialog" :  "Show Dialog",
+  "labelClose" : "Close",
+  "labelReset" : "Reset",
+
+  "hintTextEnterMessageHere": "Enter message here",
+
+  "errorRouteNotFound" : "Route not found!",
+
+  "shortMessageNotAvailable": "N/A"
+
+
+}

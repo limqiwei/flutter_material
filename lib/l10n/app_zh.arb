@@ -1,0 +1,28 @@
+{
+  "appName": "Flutter 演示",
+
+  "titleLanding" : "主页",
+  "titleDialogPlayground": "对话框详解例子",
+  "titleSnackbarPlayground": "小吃店例子",
+  "titleDialogTitle": "对话框屏幕标题",
+  "titleCounterBasic" :  "计数器（基本）",
+  "titleCounterFlutterHooks" :  "计数器 (Flutter Hooks)",
+  "titleCounterRiverpod" :  "计数器 (Riverpod)",
+
+  "labelDialogPlayground": "对话框屏幕例子",
+  "labelSnackbarPlayground": "小吃店例子",
+  "labelChangeLanguage": "改变语言",
+  "labelCounterBasic" :  "计数器（基本）",
+  "labelCounterFlutterHooks" :  "计数器 (Flutter Hooks)",
+  "labelCounterRiverpod" :  "计数器 (Riverpod)",
+  "labelIncrement" : "增加",
+  "labelPushButtonNoOfTimes": "您已按下按钮这么多次:",
+  "labelTriggerDangerMessage": "触发危险讯息",
+  "labelTriggerSuccessMessage": "触发正面讯息",
+  "labelTriggerInfoMessage": "触发简单讯息",
+  "labelShowDialog" :  "展示对话框详解",
+  "labelClose" : "关闭",
+  "labelReset" : "重置",
+
+  "hintTextEnterMessageHere": "在此输入消息"
+}
